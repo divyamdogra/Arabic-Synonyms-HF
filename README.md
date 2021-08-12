@@ -6,5 +6,7 @@
 * It gives arabic words/sentenses synonyms<br>
 * I'm training a arabic dataset and then finds out the output<br>
 </h3>
+
+
 ![image](https://user-images.githubusercontent.com/48207530/129199465-fb9c7cda-3a81-4b6a-b28d-d565e6f81a82.png)
 
